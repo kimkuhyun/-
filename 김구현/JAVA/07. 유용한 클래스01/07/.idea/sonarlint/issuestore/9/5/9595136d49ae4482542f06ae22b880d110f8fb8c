@@ -1,0 +1,5 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍûÂõúÿÿÿÿ8Î¦üºõ1J$03f3d0b7-9789-4dd4-b98e-1e84db65285a
+¢
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ñ¹çÐ8Î¦üºõ1J$9a00d8ec-f192-49f5-b570-f8b196e6f061
+r	java:S106"+Replace this use of System.out by a logger.(§»ÌŒüÿÿÿÿ8Î¦üºõ1J$ccc3cff2-5160-4601-a412-004f1ef4d834

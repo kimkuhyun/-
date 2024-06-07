@@ -1,0 +1,9 @@
+
+j
+java:S1604"(Make this anonymous inner class a lambda(£·®8™Æ€²÷1J$4eda34c1-519c-458b-88a4-f32ad1390db5
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ÿó€8™Æ€²÷1J$1fb7db01-ecf8-44bd-be55-82567eac5c11
+m	java:S106"+Replace this use of System.out by a logger.(éµ™İ8™Æ€²÷1J$491690f0-e553-482f-a396-1172c2ec58f1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8İĞƒ²÷1
+r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Ö·‚²÷1J$0eadaf75-ca0a-4678-87a7-6f7e240f0a80
+G	java:S106"+Replace this use of System.out by a logger.(éµ™İ8İĞƒ²÷1

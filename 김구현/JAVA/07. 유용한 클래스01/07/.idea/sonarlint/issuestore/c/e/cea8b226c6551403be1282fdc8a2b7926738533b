@@ -1,0 +1,5 @@
+
+™	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8´ÃÜ»õ1J$e0566e65-f85f-4d54-9ce0-0acd00a04ca0
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍûÂõúÿÿÿÿ8´ÃÜ»õ1J$fb1e4562-f6c5-4091-b00d-8b7c696e6fe7
+m	java:S106"+Replace this use of System.out by a logger.(‹ØØÏ8ÄÃÜ»õ1J$a80c74b2-ba80-41b8-bb39-ede0d3b1f53d
+r	java:S106"+Replace this use of System.out by a logger.(º–ç“ûÿÿÿÿ8ÄÃÜ»õ1J$88245728-2651-44af-979f-c3b9c5c34054

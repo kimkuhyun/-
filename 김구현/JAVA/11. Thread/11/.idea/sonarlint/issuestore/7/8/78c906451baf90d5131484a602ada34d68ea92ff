@@ -1,0 +1,11 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î½ß‡üÿÿÿÿ8úï³³÷1J$29a9a2f1-7d56-48bc-b444-76329b69d1bc
+•
+java:S1450"RRemove the "num" field and declare it as a local variable in the relevant methods.(¥Û¾º8úï³³÷1J$332f38db-0a4e-4054-8e49-de10a6759ddc
+ˆ
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(Î½ß‡üÿÿÿÿ8úï³³÷1J$96981d50-fbce-42b9-9da1-4478ece9a5ea
+m	java:S106"+Replace this use of System.out by a logger.(¡äßá8úï³³÷1J$07120782-f968-467b-92be-1b0fa99b1d89
+r	java:S106"+Replace this use of System.out by a logger.(¥ºö‡ýÿÿÿÿ8úï³³÷1J$4303928a-09bf-45ea-ae9d-82120f5618c1
+m	java:S106%"+Replace this use of System.out by a logger.(•ðüÙ8£¢µ³÷1J$778c65f1-6aef-4b82-b908-8ed7b69a724f
+j
+java:S1068"'Remove this unused "num" private field.(¥Û¾º8úï³³÷1J$1c13cc8c-0748-4893-86f6-f1bf98208a1c

@@ -1,0 +1,8 @@
+
+
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-MM-dd" 3 times.(¬ό―-8·¬Ιθυ1J$69667882-5b39-4bf3-bad6-5217637f21d0
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(σ€8·¬Ιθυ1J$1127785e-f8a4-4601-9a33-b4c46c675c42
+r	java:S106"+Replace this use of System.out by a logger.(„Ό­χώÿÿÿÿ8·¬Ιθυ1J$a2013806-7229-4cd8-9294-ddc64a85e133
+r	java:S106"+Replace this use of System.out by a logger.(„Ό­χώÿÿÿÿ8·¬Ιθυ1J$8cc70bc2-7e41-4fac-976c-91ee425e13ee
+r	java:S106)"+Replace this use of System.out by a logger.(™³ΨΏÿÿÿÿÿ8·¬Ιθυ1J$34472d19-20ba-4fc0-acc5-a37b05c93a65

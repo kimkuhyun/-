@@ -1,0 +1,6 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùÎ®³ûÿÿÿÿ8€ÿšæõ1J$cda55b00-6db6-4a18-ace7-d7ddad740ea0
+m	java:S106"+Replace this use of System.out by a logger.(€²üÔ8€ÿšæõ1J$7366da5f-c9fa-488c-8dbd-74060d4fcebe
+r	java:S106"+Replace this use of System.out by a logger.(É³“ûþÿÿÿÿ8€ÿšæõ1J$8fb9b9ca-558f-42ae-ad13-bfd263266c9f
+z
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8€ÿšæõ1J$65733a55-c4c4-4fd3-9047-b510637993dc

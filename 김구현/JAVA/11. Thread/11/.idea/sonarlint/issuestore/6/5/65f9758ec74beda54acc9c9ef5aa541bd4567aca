@@ -1,0 +1,24 @@
+
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²¡ÙÚJ$bf2ecb39-2cc9-4d2a-8c39-272d3b020137
+•
+java:S1450"RRemove the "num" field and declare it as a local variable in the relevant methods.(¥Û¾º8ê–Ï³÷1J$2e924529-07f9-4b31-bd5f-0b4388049c43
+ƒ
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(²¡ÙÚ8ë–Ï³÷1J$fbf5a909-1b81-4666-a8bb-fafb6c5ed119
+m	java:S106"+Replace this use of System.out by a logger.(¡äßá8ì–Ï³÷1J$f259e369-97a3-4112-88a8-192a67300860
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ÕÑ³÷1J$4fd7a952-417e-47f6-8bee-6c5b69d0b5a1
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ÕÑ³÷1J$b5ef1d49-053a-412d-b156-46531c132386
+|
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ÕÑ³÷1J$21b4b79e-743f-454d-b856-f8a1433849d6
+m	java:S106"+Replace this use of System.out by a logger.(Œ«éú8í–Ï³÷1J$088cdbea-afe6-4979-bd18-e3c754e00a3b
+r	java:S106#"+Replace this use of System.out by a logger.(¥ºö‡ıÿÿÿÿ8ñ¾Ñ³÷1J$f93cc523-74e7-4321-bc06-fca1a229dbdf
+x
+java:S2446%"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8”°Œ´÷1J$d01354c1-9a16-41bb-8f59-7727ce197882
+¦
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8”°Œ´÷1J$a628f183-d3cc-4c0e-b842-c376709a31c6
+|
+java:S2274)":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8”°Œ´÷1J$7d97f1e2-c9cb-4fba-8dcd-b2c3de79dc2f
+m	java:S106+"+Replace this use of System.out by a logger.(Œ«éú8”°Œ´÷1J$4455d9d6-5505-4dee-943b-e3a1ef8ebf5c
+j
+java:S1068"'Remove this unused "num" private field.(¥Û¾º8î–Ï³÷1J$c4e971d6-b3df-410d-872a-273666d40e59

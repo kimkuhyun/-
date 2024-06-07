@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍûÂõúÿÿÿÿ8èıÌÏø1J$c1ef1f5e-9b18-4e4a-af0e-44a4546b805f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û¤Â¢úÿÿÿÿ8èıÌÏø1J$fb336ac4-219c-4fed-b238-c0aa6ce74ad3
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(€û‚Şùÿÿÿÿ8ç±ÏÏø1
+L	java:S106"+Replace this use of System.out by a logger.(€û‚Şùÿÿÿÿ8ç±ÏÏø1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ç±ÏÏø1

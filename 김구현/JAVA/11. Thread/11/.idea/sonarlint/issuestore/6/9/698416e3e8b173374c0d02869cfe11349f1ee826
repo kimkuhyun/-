@@ -1,0 +1,4 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ð·ð¤ÿÿÿÿÿ8Ô‡ù³÷1J$14ef90a4-8317-4e05-9681-211d642e3ad7
+ˆ
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(ð·ð¤ÿÿÿÿÿ8Ô‡ù³÷1J$608c0d9e-e38e-4f47-b35f-e35317f877f4

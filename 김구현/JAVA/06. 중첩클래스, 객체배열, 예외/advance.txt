@@ -1,0 +1,1 @@
+1. chap99_homework.homework05 패키지에 있는 PrintStudentRank 클래스의 makMajorArr 메소드와 majorRank 메소드의 기능을 구현하세요.

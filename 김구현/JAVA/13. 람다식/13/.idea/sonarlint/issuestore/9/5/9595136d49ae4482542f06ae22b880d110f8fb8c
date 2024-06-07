@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍûÂõúÿÿÿÿ8³¾±…ø1J$29defa4b-c8f8-43d1-88e2-bfe895221fc7
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¡ÃÒçûÿÿÿÿ8³¾±…ø1J$001e3928-06b0-41a0-8312-29021df2859c
+m	java:S106"+Replace this use of System.out by a logger.(‹ØØÏ8³¾±…ø1J$1b5039f9-eda2-4581-9fcc-13fa67b5755d
+m	java:S106"+Replace this use of System.out by a logger.(‹ØØÏ8Â¾±…ø1J$79a6e58f-9d04-46a7-8a8b-60ec61d45bbe
+r	java:S106"+Replace this use of System.out by a logger.(ý•õ¬ùÿÿÿÿ8Â¾±…ø1J$e4610977-747d-4297-be1b-470a2ae6564b
